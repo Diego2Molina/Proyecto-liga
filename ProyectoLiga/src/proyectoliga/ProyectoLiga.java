@@ -18,6 +18,7 @@ public class ProyectoLiga {
      */
     public static void main(String[] args) {
     JOptionPane.showMessageDialog(null, "sis13");
+    JOptionPane.showMessageDialog(null, "Modificacion desde Git");
     }
     
 }
